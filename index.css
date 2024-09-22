@@ -287,6 +287,10 @@ body{
     grid-row: 2 / 3;
   }
 
+  .bento-grid-manage h1{
+    font-size: 1.5rem;
+  }
+
   .bento-grid-manage img{
     width: 100%;
     margin-bottom: 1rem;
@@ -298,7 +302,7 @@ body{
   }
 
   .bento-grid-maintain h1{
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 2rem;
   }
   .bento-grid-maintain img{
@@ -352,6 +356,15 @@ body{
 
   .bento-grid-grow img{
     width: 70%;
+  }
+
+  .bento-grid-grow h1{
+    font-size: 3.5rem;
+  }
+
+  .bento-grid-grow p{
+    font-size: 1.2rem;
+    font-weight: 500;
   }
 
   .bento-grid-schedule{
